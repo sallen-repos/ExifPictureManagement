@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PictureManagement.ContainsExtension">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>ContainsExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureManagement.DataExtractor">
+    <Position X="11" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAEQAAgA=</HashCode>
+      <FileName>DataExtractor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureManagement.EqualsExtension">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EqualsExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureManagement.ExifExtractor">
+    <Position X="8.25" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIIAAIAAACAAABAAAAAAAA=</HashCode>
+      <FileName>ExifExtractor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureManagement.ImageData">
+    <Position X="11" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAABAAAQAABAKAA=</HashCode>
+      <FileName>ImageData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureManagement.Form1">
+    <Position X="4.75" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BDLKQYCAACgAqBEAgSDaQAoCAhHKCAYRJEEAgwRYLrg=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureManagement.CustomMessageBox">
+    <Position X="2" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABACAAAAACAAgAAAAACAAgACACCoEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomMessageBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureManagement.DataStore">
+    <Position X="8.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAAAAgAAAAAAAAAAAAAAAAAAAAQAAAAg=</HashCode>
+      <FileName>DataStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureManagement.ExifTag">
+    <Position X="10.75" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExifTag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
